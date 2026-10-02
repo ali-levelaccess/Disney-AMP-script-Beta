@@ -9556,7 +9556,7 @@ function dataSchemas() {
             mapsTo: ["compliantExample"],
             name: "Compliant Code Example",
             requiredToExist: false,
-            requiredToHaveCode: true,
+            requiredToHaveCode: false,
             requiredToHaveContent: true,
           },
         ],
