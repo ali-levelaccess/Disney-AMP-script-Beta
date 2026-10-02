@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      7.0.3-beta-4
 // @description  The ACE AMP Script - Adds some much needed functionality to AMP.
-// @author       Kevin Murphy
+// @author       Kevin Murphy (+Hadley Luker, Owen Edwards, Ali Zimmerman)
 // @match        *.levelaccess.net/index.php*
 // @match        *.levelaccess.net/public/reporting/*
 // @match        *.levelaccess.net/public/audit/*
@@ -16,8 +16,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
 // @connect      self
-// @updateURL    https://raw.githubusercontent.com/levelaccess/AMPScript-Releases/main/AmpScript.js
-// @downloadURL  https://raw.githubusercontent.com/levelaccess/AMPScript-Releases/main/AmpScript.js
+// @updateURL    https://raw.githubusercontent.com/ali-levelaccess/Disney-AMP-script-Beta/main/AmpScript-Disney-Beta.js
+// @downloadURL  https://raw.githubusercontent.com/ali-levelaccess/Disney-AMP-script-Beta/main/AmpScript-Disney-Beta.js
 // @supportURL   https://level-access.slack.com/messages/CK79W4PPU/
 // @icon         https://amp.levelaccess.net/img/favicon.png
 // @require      https://unpkg.com/prettier@3.6.2/standalone.js
